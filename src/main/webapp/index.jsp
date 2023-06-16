@@ -307,7 +307,7 @@ bottom: 250px;
 #u1{
     position: relative;
     background-color: azure;
-    height: 60px;    
+    height: 61px;    
     width: 180px;
 }
 
